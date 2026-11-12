@@ -3,7 +3,7 @@
   "appName": "منصة تدريب",
   "webDir": "www",
   "server": {
-    "url": "https://osama-salkhdi.github.io/olympiad-math/",
+    "url": "https://osama-salkhdi.github.io/training/",
     "cleartext": false,
     "errorPath": "offline.html",
     "allowNavigation": ["osama-salkhdi.github.io"]
